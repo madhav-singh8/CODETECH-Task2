@@ -9,7 +9,9 @@ Duration : OCTOBER 25th, 2024 to DECEMBER 10th, 2024
 Mentor : Neela santhu
 
 Objective
-To create an intuitive e-commerce platform that allows users to browse, search, and purchase products online, ensuring a seamless shopping experience.
+To create an intuitive e-commerce platform that allows
+users to browse, search, and purchase products online,
+ensuring a seamless shopping experience.
 
 Key Activities
 1. Display products with images, descriptions, and prices.
